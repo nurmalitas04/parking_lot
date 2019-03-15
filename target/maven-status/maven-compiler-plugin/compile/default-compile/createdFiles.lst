@@ -1,0 +1,5 @@
+com\gojek\model\Registration.class
+com\gojek\service\ParkingServiceImpl.class
+com\gojek\Application.class
+com\gojek\model\SortBySlotNo.class
+com\gojek\service\ParkingService.class
